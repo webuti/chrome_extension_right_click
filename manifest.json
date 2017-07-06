@@ -1,0 +1,10 @@
+{
+  "name": "Dil dosyasına ekleyici",
+  "description": "Dil dosyasına ekleyici",
+  "version": "1",
+  "permissions": ["contextMenus","http://*/*"],
+  "background": {
+    "scripts": ["jquery.js","sample.js"]
+  },
+  "manifest_version": 2
+}
